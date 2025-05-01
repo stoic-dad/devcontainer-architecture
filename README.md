@@ -27,7 +27,7 @@ This mindset shift led to:
 
 ✅ Swapping to a Microsoft DevContainer base image for ARM stability  
 ✅ Stripping fragile dependencies from Dockerfile  
-✅ Validating reproducibility across personal + work Mac (both M1 ARM)  
+✅ Validating reproducibility across 2 laptop's (both M1 ARM)  
 ✅ Version-controlling a clean baseline in a private repo  
 ✅ Creating this architecture documentation for future maintainers
 
